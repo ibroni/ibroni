@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ibroni.
-- 👀 I’m interested in predictive/prescriptive analysis and ML model development
-- 🌱 I’m currently learning Kubernetes and deployment of microservices.
+- 👀 I’m interested in predictive/prescriptive analysis, and ML model operationalization.
 - 💞️ I’m looking to collaborate on NLP, computer vision and predictive analytics projects.
 - 📫 How to reach me ibra(dot)onifade(@@@)gmail.com
 
